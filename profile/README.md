@@ -13,3 +13,5 @@ One day, I thought.
 > "Hmm... Then... Oh! Just make a new one!"
 
 So this is what they call a “stupid person.”
+
+That's how the development of Gria began—out of the blue.
